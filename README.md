@@ -1,4 +1,4 @@
 # Hello-world
 etc.
 
-be programer or not to be at all
+be programer or be a robot
